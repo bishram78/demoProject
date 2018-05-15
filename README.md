@@ -1,7 +1,8 @@
 # demoProject
 First demo project for experiment
 
-
-Lines added...
+List of materials required...
+```
 (1) Potato
 (2) Brinjal
+```
